@@ -1,9 +1,10 @@
 import React from "react";
+import littlelemon_logo from "../assets/littlelemon_logo.png"
 
 const Nav = () => {
     return(
         <nav>
-            <img src="../assets/littlelemon_logo.png" alt="Little Lemon Logo" ></img>
+            <img src={littlelemon_logo} alt="Little Lemon Logo" ></img>
             <ul>
                 <li><a href="/home">Home</a></li>
                 <li><a href="/about">About</a></li>
