@@ -21,8 +21,8 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Lewis19K/Capstone.git
-    cd little-lemon-booking
+    git clone https://github.com/Lewis19K/capstone.git
+    cd capstone
     ```
 
 2. **Install Dependencies**:
