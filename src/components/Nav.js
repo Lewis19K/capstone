@@ -3,7 +3,7 @@ import React from "react";
 const Nav = () => {
     return(
         <nav>
-            <img src="/src/assets/littlelemon_logo.png" alt="Little Lemon Logo" ></img>
+            <img src="../assets/littlelemon_logo.png" alt="Little Lemon Logo" ></img>
             <ul>
                 <li><a href="/home">Home</a></li>
                 <li><a href="/about">About</a></li>

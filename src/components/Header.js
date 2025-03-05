@@ -11,7 +11,7 @@ const Header = () => {
             <button>Reserve a Table</button>
             </div>
             <div>
-                <img src="/src/assets/food1.avif" alt="Food Image 1" />
+                <img src="../assets/food1.avif" alt="Food Image 1" />
             </div>
             </section>
         </header>

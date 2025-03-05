@@ -5,7 +5,7 @@ const Footer = () => {
         <footer>
             <section>
             <div>
-                <img src="/src/assets/small_logo.png" />
+                <img src="../assets/small_logo.png" />
             </div>
             <div>
                 <h3>Document Navigation</h3>
