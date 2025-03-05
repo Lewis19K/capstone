@@ -4,11 +4,8 @@ import { useState } from "react";
 
 const Booking = (props) => {
 
-
-
     return (
-
-        <BookingForm availableTimes={props.availableTimes}/>
+        <BookingForm availableTimes={props.availableTimes} dispatch={props.dispatch}/>
     )
 }
 
